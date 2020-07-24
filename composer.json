@@ -1,10 +1,11 @@
 {
-    "name": "laravel/laravel",
+    "name": "cohensive/laravel-enterprise",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel Framework with enterprise-ready architecture.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "enterprise"
     ],
     "license": "MIT",
     "require": {
