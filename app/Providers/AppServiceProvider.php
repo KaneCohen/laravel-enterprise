@@ -23,6 +23,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        view()->addNamespace('App', [
+            realpath(base_path('resources/views')),
+        ]);
+
     }
 }
