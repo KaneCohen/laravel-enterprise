@@ -2,6 +2,12 @@
 
 Boilerplate architecture to let you quickly start working on large enterprise-level applications using Laravel.
 
+### Features
+
+- Drop-in replacement for default laravel/laravel
+- Domain-driven design
+- Action business logic patter
+
 ### Documentation
 
 Coming soon.
