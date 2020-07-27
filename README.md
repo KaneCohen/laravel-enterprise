@@ -1,10 +1,10 @@
-## Laravel Enterprise Boilerplate
+## Laravel SAAS Boilerplate for Enterprise
 
 Boilerplate architecture to let you quickly start working on large enterprise-level applications using Laravel.
 
 ### Features
 
-- Drop-in replacement for default laravel/laravel
+- Drop-in replacement for default laravel repository
 - Domain-driven design
 - Action business logic patter
 
